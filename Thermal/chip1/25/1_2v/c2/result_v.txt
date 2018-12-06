@@ -1,0 +1,8 @@
+#Begin:c2/6635	Bit Error Rate: 0.03967125094197438
+Temperature: 0 : 0
+Temperature: 10 : 0
+Temperature: 40 : 0
+Temperature: 55 : 16
+Temperature: 70 : 3560
+Temperature: 85 : 6635
+Temperature: 100 : 6635

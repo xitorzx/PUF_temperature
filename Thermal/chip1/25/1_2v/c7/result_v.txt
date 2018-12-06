@@ -1,0 +1,8 @@
+#Begin:c7/4177	Bit Error Rate: 1.1222169020828346e-05
+Temperature: 0 : 0
+Temperature: 10 : 0
+Temperature: 40 : 0
+Temperature: 55 : 0
+Temperature: 70 : 0
+Temperature: 85 : 0
+Temperature: 100 : 3

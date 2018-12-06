@@ -1,0 +1,8 @@
+#Begin:c1/1200	Bit Error Rate: 0.061848958333333336
+Temperature: 0 : 1
+Temperature: 10 : 0
+Temperature: 40 : 32
+Temperature: 55 : 1085
+Temperature: 70 : 1200
+Temperature: 85 : 1200
+Temperature: 100 : 1232
